@@ -1,0 +1,13 @@
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\Bot.exe.config
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\Bot.exe
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\Bot.pdb
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vikto\Desktop\WeatherBot\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\Vikto\Desktop\WeatherBot\Bot\obj\Debug\Bot.exe
+C:\Users\Vikto\Desktop\WeatherBot\Bot\obj\Debug\Bot.pdb
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\CsQuery.dll
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\CsQuery.xml
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Vikto\Desktop\WeatherBot\Bot\bin\Debug\HtmlAgilityPack.xml
