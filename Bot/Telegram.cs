@@ -5,7 +5,7 @@ namespace Bot
 {
     class Telegram
     {
-        private static string Token = @"292721513:AAEZdxWHFbOYLX7doAYao_qCrSWzb7RM2j4";
+        private static string Token = @"enter_token_your_bot";
         private static string Link = "https://api.telegram.org/bot" + Token;
         private static int LastUpdateID = 0;
         private static Telegram instance;
